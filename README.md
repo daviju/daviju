@@ -1,5 +1,11 @@
 # 💫 About Me:
-Estoy trabajando en un proyecto web local con XAMPP y MySQL, donde desarrollo una tienda online de kebabs con personalización de productos, cálculo de precios y envíos de tickets por correo.<br>Estoy buscando colaborar en proyectos que involucren desarrollo web, especialmente con PHP, MySQL, HTML, CSS y JavaScript.<br>Estoy buscando ayuda con optimización de bases de datos y seguridad en aplicaciones web.<br>Actualmente estoy aprendiendo desarrollo de aplicaciones web y programación en Java, además de profundizar en SEO.<br>Pregúntame sobre desarrollo web, creación de aplicaciones, bases de datos MySQL y cómo personalizar tiendas online.<br>Trabajo en un negocio de kebabs llamado Wrap & Roll, donde desarrollo la plataforma web para pedidos online.
+Soy David, un estudiante del grado superior de Desarrollo de Aplicaciones Web (DAW).
+<br>
+<br>
+Estoy trabajando en varios proyectos web, de momento sólo en local con XAMPP y MySQL <br>
+Actualmente mis dos proyectos más destacables son una tienda online de kebabs con personalización de productos, cálculo de precios, manejo de carritos y envíos de tickets por correo donde también manejo los roles del usuario.<br>
+Y una web de tests online, donde trabajo con envíos de correos, creación de PDFs, manejo de los roles de usuario, creación y edición de preguntas y creación de gráficos con Chart.js, todo esto usando Symfony<br> <br>
+Estoy buscando colaborar en proyectos que involucren desarrollo web, especialmente con PHP, Python, Java, MySQL, SQL, HTML, CSS y JavaScript.<br>Estoy buscando ayuda con optimización de bases de datos y seguridad en aplicaciones web.<br>Actualmente estoy aprendiendo desarrollo de aplicaciones web y programación en Java, además de profundizar en frameworks como Symfony, Angular JS y Spring Boot. <br>Pregúntame sobre desarrollo web, creación de aplicaciones, bases de datos MySQL y SQL y cómo personalizar tiendas online.<br>Trabajo en desarrollarme como persona y como programador, manteniéndome siempre actualizado.
 
 
 ## 🌐 Socials:
