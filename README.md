@@ -21,9 +21,9 @@ Trabajo constantemente en mejorar mis habilidades y manteniéndome actualizado c
   - Desarrollado utilizando **Symfony**.
 
 ## 🛠 Tecnologías que utilizo:
-- **Lenguajes**: PHP, Python, Java, JavaScript, HTML, CSS  
+- **Lenguajes**: PHP, Python, Java, JavaScript, HTML, CSS
 - **Bases de Datos**: MySQL, SQL  
-- **Frameworks y Herramientas**: Symfony, AngularJS, Spring Boot, XAMPP  
+- **Frameworks y Herramientas**: Symfony, AngularJS, Spring Boot, XAMPP, ChartJS, JQuery
 
 ## 🤝 Busco colaborar en:
 - **Desarrollo web**: Especialmente con PHP, Python, Java, JavaScript, MySQL y SQL.  
